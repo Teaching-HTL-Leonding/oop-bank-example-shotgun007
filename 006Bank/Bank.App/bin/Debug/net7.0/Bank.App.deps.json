@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Bank.App/1.0.0": {
+        "dependencies": {
+          "Bank.Logic": "1.0.0"
+        },
+        "runtime": {
+          "Bank.App.dll": {}
+        }
+      },
+      "Bank.Logic/1.0.0": {
+        "runtime": {
+          "Bank.Logic.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Bank.App/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Bank.Logic/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0": {
+      "Bank.Logic/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/Bank.Logic.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Bank.Logic.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Bank.Logic/1.0.0": {
+      "type": "project",
+      "path": "../Bank.Logic/Bank.Logic.csproj",
+      "msbuildProject": "../Bank.Logic/Bank.Logic.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net7.0": [
+      "Bank.Logic >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\simko\\.nuget\\packages\\": {},
+    "C:\\Users\\simko\\AppData\\Roaming\\Godot\\mono\\GodotNuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\SynologyDrive\\htl\\Programmieren\\2.Klasse\\csharp\\006Bank\\Bank.App\\Bank.App.csproj",
+      "projectName": "Bank.App",
+      "projectPath": "C:\\SynologyDrive\\htl\\Programmieren\\2.Klasse\\csharp\\006Bank\\Bank.App\\Bank.App.csproj",
+      "packagesPath": "C:\\Users\\simko\\.nuget\\packages\\",
+      "outputPath": "C:\\SynologyDrive\\htl\\Programmieren\\2.Klasse\\csharp\\006Bank\\Bank.App\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Users\\simko\\AppData\\Roaming\\Godot\\mono\\GodotNuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\simko\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\simko\\AppData\\Roaming\\NuGet\\config\\Godot.Offline.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "projectReferences": {
+            "C:\\SynologyDrive\\htl\\Programmieren\\2.Klasse\\csharp\\006Bank\\Bank.Logic\\Bank.Logic.csproj": {
+              "projectPath": "C:\\SynologyDrive\\htl\\Programmieren\\2.Klasse\\csharp\\006Bank\\Bank.Logic\\Bank.Logic.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0": {
+        "targetAlias": "net7.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

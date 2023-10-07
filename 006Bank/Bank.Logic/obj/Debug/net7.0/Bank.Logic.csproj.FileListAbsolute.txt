@@ -1,0 +1,12 @@
+C:\SynologyDrive\htl\Programmieren\2.Klasse\csharp\006Bank\Bank.Logic\bin\Debug\net7.0\Bank.Logic.deps.json
+C:\SynologyDrive\htl\Programmieren\2.Klasse\csharp\006Bank\Bank.Logic\bin\Debug\net7.0\Bank.Logic.dll
+C:\SynologyDrive\htl\Programmieren\2.Klasse\csharp\006Bank\Bank.Logic\bin\Debug\net7.0\Bank.Logic.pdb
+C:\SynologyDrive\htl\Programmieren\2.Klasse\csharp\006Bank\Bank.Logic\obj\Debug\net7.0\Bank.Logic.csproj.AssemblyReference.cache
+C:\SynologyDrive\htl\Programmieren\2.Klasse\csharp\006Bank\Bank.Logic\obj\Debug\net7.0\Bank.Logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\SynologyDrive\htl\Programmieren\2.Klasse\csharp\006Bank\Bank.Logic\obj\Debug\net7.0\Bank.Logic.AssemblyInfoInputs.cache
+C:\SynologyDrive\htl\Programmieren\2.Klasse\csharp\006Bank\Bank.Logic\obj\Debug\net7.0\Bank.Logic.AssemblyInfo.cs
+C:\SynologyDrive\htl\Programmieren\2.Klasse\csharp\006Bank\Bank.Logic\obj\Debug\net7.0\Bank.Logic.csproj.CoreCompileInputs.cache
+C:\SynologyDrive\htl\Programmieren\2.Klasse\csharp\006Bank\Bank.Logic\obj\Debug\net7.0\Bank.Logic.dll
+C:\SynologyDrive\htl\Programmieren\2.Klasse\csharp\006Bank\Bank.Logic\obj\Debug\net7.0\refint\Bank.Logic.dll
+C:\SynologyDrive\htl\Programmieren\2.Klasse\csharp\006Bank\Bank.Logic\obj\Debug\net7.0\Bank.Logic.pdb
+C:\SynologyDrive\htl\Programmieren\2.Klasse\csharp\006Bank\Bank.Logic\obj\Debug\net7.0\ref\Bank.Logic.dll
